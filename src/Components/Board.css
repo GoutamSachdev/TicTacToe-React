@@ -1,0 +1,17 @@
+.board{
+    display: grid;
+    grid-template-columns: repeat(3,5rem);
+    place-items: center;
+    justify-content: center;
+
+
+}
+.heading{
+    font-display:  center;
+    font-weight: 10rem;
+    font-size: medium;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(51, 161, 194);
+  
+}

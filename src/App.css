@@ -1,0 +1,31 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  background-color:black;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Roboto', sans-serif;
+}
+.p{
+  color: rgb(33, 240, 240);
+  font-family: 'Pacifico', cursive;
+  font-family: 'Roboto', sans-serif;
+}
+.App{
+ 
+ 
+ 
+  
+  
+}
+span.heading{
+   display: flex;
+    font-size: 40px;
+    background-color: black;
+  margin: 1em auto;
+    color: ghostwhite;
+  font-weight: bold;
+   align-items: center;
+  justify-content: center ;
+}
